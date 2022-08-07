@@ -1,0 +1,6 @@
+[submodule "CompScript"]
+	path = CompScript
+	url = https://github.com/brunocbreis/SS-CompScript
+[submodule "StandaloneGUI"]
+	path = StandaloneGUI
+	url = https://github.com/brunocbreis/SS-StandaloneGUI
